@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923474187615", "Prince", false],
+  ["923139865723", "ꪑ𝘳 ꪑꫀ𝘳ꪖん", false],
   [''], 
   [''] 
 ]
@@ -114,16 +114,16 @@ global.mimigpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/+923474187615' //contact
+global.developer = 'https://wa.me/+923139865723' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
-global.botname = 'ᴍɪᴍɪ-ᴍᴅ'
-global.mimibot = '🌈ᴍɪᴍɪ-ᴍᴅ🌈'
-global.packname = 'Asif♥️' 
-global.author = 'Asif♥️' 
+global.botname = 'ꪑ𝘳 ꪑꫀ𝘳ꪖん'
+global.mimibot = 'ꪑ𝘳 ꪑꫀ𝘳ꪖん'
+global.packname = 'ꪑ𝘳 ꪑꫀ𝘳ꪖん' 
+global.author = 'ꪑ𝘳 ꪑꫀ𝘳ꪖん' 
 global.mimiig = 'https://www.instagram.com' 
 global.mimigp = 'https://chat.whatsapp.com/FznwSTj1n7d7TMR3SkX3uC'
 global.menuvid = 'https://telegra.ph/file/9432d82a41d7acc544259.mp4'
